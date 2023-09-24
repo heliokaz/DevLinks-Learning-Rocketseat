@@ -32,6 +32,11 @@ body {
 
   */
 
+  h1 { 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  
   /*backgound: color image repeat position*/
   background: var(--bg-url) no-repeat top center/cover;
   height: 100vh;
